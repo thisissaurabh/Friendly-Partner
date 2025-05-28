@@ -1,0 +1,2 @@
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/RelWithDebInfo/5e5r602j/x86_64/CMakeFiles/edit_cache.dir
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/RelWithDebInfo/5e5r602j/x86_64/CMakeFiles/rebuild_cache.dir

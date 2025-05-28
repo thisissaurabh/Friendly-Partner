@@ -1,0 +1,2 @@
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/Debug/223n621d/x86/CMakeFiles/edit_cache.dir
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/Debug/223n621d/x86/CMakeFiles/rebuild_cache.dir

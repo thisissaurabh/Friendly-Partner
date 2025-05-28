@@ -1,0 +1,2 @@
+C:/Projects/Friendly-Partner-main/Friendly-Partner-main/android/app/.cxx/Debug/b3686839/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Projects/Friendly-Partner-main/Friendly-Partner-main/android/app/.cxx/Debug/b3686839/armeabi-v7a/CMakeFiles/rebuild_cache.dir

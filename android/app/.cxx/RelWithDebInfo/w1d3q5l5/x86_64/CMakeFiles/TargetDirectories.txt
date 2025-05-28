@@ -1,0 +1,2 @@
+/Users/iitpl/Documents/NEW PROJECT SORAV/Friendly-Partner-29-04-2025-main/android/app/.cxx/RelWithDebInfo/w1d3q5l5/x86_64/CMakeFiles/edit_cache.dir
+/Users/iitpl/Documents/NEW PROJECT SORAV/Friendly-Partner-29-04-2025-main/android/app/.cxx/RelWithDebInfo/w1d3q5l5/x86_64/CMakeFiles/rebuild_cache.dir

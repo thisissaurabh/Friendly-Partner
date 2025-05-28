@@ -1,0 +1,2 @@
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/RelWithDebInfo/5e5r602j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Projects/Friendly-Partner-Home-master/android/app/.cxx/RelWithDebInfo/5e5r602j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

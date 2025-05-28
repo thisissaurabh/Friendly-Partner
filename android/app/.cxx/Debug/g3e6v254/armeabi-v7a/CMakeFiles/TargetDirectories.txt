@@ -1,0 +1,2 @@
+/Users/iitpl/Documents/NEW PROJECT SORAV/Friendly-Partner-29-04-2025-main/android/app/.cxx/Debug/g3e6v254/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/iitpl/Documents/NEW PROJECT SORAV/Friendly-Partner-29-04-2025-main/android/app/.cxx/Debug/g3e6v254/armeabi-v7a/CMakeFiles/rebuild_cache.dir
